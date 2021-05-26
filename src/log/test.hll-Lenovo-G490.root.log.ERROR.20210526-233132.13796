@@ -1,0 +1,5 @@
+Log file created at: 2021/05/26 23:31:32
+Running on machine: hll-Lenovo-G490
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20210526 23:31:32.121542 13796 main.cc:17] first use glog error!
